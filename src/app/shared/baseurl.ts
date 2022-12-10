@@ -1,1 +1,1 @@
-export const baseURL = "https://cypherstore.herokuapp.com/";
+export const baseURL = "https://cypherstore.onrender.com/";
